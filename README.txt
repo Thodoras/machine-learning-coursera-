@@ -1,0 +1,1 @@
+All algorithms are fully vectorized and thus greatly optimized.
